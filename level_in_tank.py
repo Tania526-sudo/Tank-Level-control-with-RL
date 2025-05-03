@@ -1,8 +1,6 @@
 '''
 Reinforcement Learning : Level in a tank system environment.
 
-@ Author:   Nirav Raiyani
-            University of Alberta
 '''
 
 
